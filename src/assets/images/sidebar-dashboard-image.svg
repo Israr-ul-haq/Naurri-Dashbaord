@@ -1,0 +1,28 @@
+<svg id="Group_20282" data-name="Group 20282" xmlns="http://www.w3.org/2000/svg" width="19.711" height="19.711" viewBox="0 0 19.711 19.711">
+  <g id="Group_20281" data-name="Group 20281" transform="translate(0 0)">
+    <g id="icon_category" transform="translate(0)">
+      <path id="Path_14090" data-name="Path 14090" d="M105.537,38.672h-3.811a.476.476,0,0,1,0-.953h3.811a.476.476,0,0,1,0,.953Zm0,0" transform="translate(-97.579 -36.27)" fill="#d4d4d4" stroke="#d4d4d4" stroke-width="0.2"/>
+      <path id="Path_14091" data-name="Path 14091" d="M51.746,38.672a.476.476,0,0,1,0-.953h0a.476.476,0,0,1,0,.953Zm0,0" transform="translate(-49.503 -36.27)" fill="#d4d4d4" stroke="#d4d4d4" stroke-width="0.2"/>
+      <g id="Group_12436" data-name="Group 12436">
+        <g id="Group_12436-2" data-name="Group 12436">
+          <g id="Rectangle_224" data-name="Rectangle 224" fill="#d4d4d4" stroke="#d4d4d4" stroke-width="0.8">
+            <rect width="9.199" height="9.199" rx="1" stroke="none"/>
+            <rect x="0.4" y="0.4" width="8.399" height="8.399" rx="0.6" fill="none"/>
+          </g>
+          <g id="Rectangle_229" data-name="Rectangle 229" transform="translate(0 10.513)" fill="#d4d4d4" stroke="#d4d4d4" stroke-width="0.8">
+            <rect width="9.199" height="9.199" rx="1" stroke="none"/>
+            <rect x="0.4" y="0.4" width="8.399" height="8.399" rx="0.6" fill="none"/>
+          </g>
+          <g id="Rectangle_228" data-name="Rectangle 228" transform="translate(10.513)" fill="#d4d4d4" stroke="#d4d4d4" stroke-width="0.8">
+            <rect width="9.199" height="9.199" rx="1" stroke="none"/>
+            <rect x="0.4" y="0.4" width="8.399" height="8.399" rx="0.6" fill="none"/>
+          </g>
+          <g id="Rectangle_230" data-name="Rectangle 230" transform="translate(10.513 10.513)" fill="#d4d4d4" stroke="#d4d4d4" stroke-width="0.8">
+            <rect width="9.199" height="9.199" rx="1" stroke="none"/>
+            <rect x="0.4" y="0.4" width="8.399" height="8.399" rx="0.6" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

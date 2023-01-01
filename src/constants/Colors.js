@@ -1,0 +1,18 @@
+export const Colors = {
+  paragraph_primary_color: "#6b6b6bb3",
+  heading_primary_color: "#2E2E2E",
+  heading_secondary_color: "#FFAF00",
+  input_primary_color: '#515c6f80!important',
+  border_primary_color: "#FFAF00",
+  button_primary_color: "#FFAF00",
+  white_color: "#ffffff",
+  black_color: "#000000",
+  button_header_color: "#ec242314",
+  header_bell_color: "#FFAF00",
+  notfound_secondary_color: "#A2A1A1",
+  header_danger_color: "#e90e0ecc",
+  header_success_color: "#279527",
+  uploaded_image_border_color: "#6b6b6bb3",
+  header_warning_color: "#FFAF00",
+  offline_Primary_Color: "#848484",
+}
